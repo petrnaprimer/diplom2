@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = ()=>{
     return <div>
-        <nav className='dark affix-top visible' data-spy='affix' id='main'>
+        <nav className='dark' data-spy='affix' id='main'>
             <div className='logo'>
                 <span className='glyphicon glyphicon-flash'></span>
                 The Agency

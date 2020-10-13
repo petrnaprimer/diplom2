@@ -2,10 +2,10 @@ import React from "react";
 
 const Top = ()=>{
     return <div>
-        <div className='overlay dark'>
-            <img alt className='centered' src='http://placehold.it/1024x768'/>
+        <div class='overlay dark'>
+            <img alt class='centered' src='http://placehold.it/1024x768'/>
             <a href='#'>
-                <span className='fa fa-times'></span>
+                <span class='fa fa-times'></span>
             </a>
         </div>
     </div>
